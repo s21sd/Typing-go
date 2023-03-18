@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Montserrat:ital,wght@0,700;1,700&family=Prompt:wght@300&family=Tilt+Neon&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: rgb(150, 172, 172);
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+/* 
+.main-sec {
+    position: relative;
+} */
+
+.typing-section {
+    text-align: center;
+
+}
+
+img {
+    width: 80px;
+    height: 80px;
+    border-radius: 81px;
+    margin-left: 5px;
+}
+
+h2 {
+    margin: 10%;
+    font-family: 'Prompt', sans-serif;
+    /* font-size: 1.5rem; */
+}
+
+#textarea {
+    border: 0.1rem solid #A884DC;
+
+    border-radius: 1rem;
+    max-width: 50rem;
+    width: 50rem;
+    height: 20rem;
+    margin-top: 5%;
+    padding: 1rem 2rem;
+    font-size: 1.6rem;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Tilt Neon', cursive;
+}
+
+.btn {
+    background-color: #A884DC;
+    margin: 5px;
+    border: 1px solid black;
+    font-family: 'Tilt Neon', cursive;
+}
+
+#showsentence {
+    font-size: 2rem;
+}
+
+#showcase {
+    font-size: 2.5rem;
+    text-align: center;
+    margin: 5px;
+    letter-spacing: .02rem;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Tilt Neon', cursive;
+
+
+}
